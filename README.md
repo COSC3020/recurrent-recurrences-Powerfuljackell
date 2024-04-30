@@ -52,7 +52,7 @@ $13n \cdot T(\frac{n}{13n}) + 5logn$
 
 $13n \cdot T(\frac{1}{13}) + 5logn$
 
-$n \cdot T(1) + logn \in \Theta(logn)$
+$n \cdot T(1) + logn \in \Theta(n)$
 
 3.
 $$ T(n) =
